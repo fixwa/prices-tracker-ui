@@ -1,9 +1,9 @@
 .Intro {
-  background-color: #80acfc;
+  background-color: #ffba3b;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(6px + 1vmin);
-  color: #e7f2ff;
+  font-size: 14px;
+  color: #57001a;
 }
